@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+transformers
+torch
+faster-whisper
+faiss-cpu
+chromadb
+edge-tts
+python-multipart
+streamlit
+sentence-transformers
+numpy 
+word2number
+google-generativeai
+python-dotenv
